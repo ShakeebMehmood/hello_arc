@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Hello to my hello arc app on K8S!
+          value: GitOps demo for K8S!
